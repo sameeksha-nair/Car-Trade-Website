@@ -1,0 +1,352 @@
+h1 {
+
+    position: absolute;
+    width: 1440px;
+    height: 99px;
+    left: 40px;
+    top: 0px;
+
+    font-size: xx-large;
+}
+
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background: #E5E5E5;
+}
+.one{
+    position: absolute;
+    height: 80px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    fill:rgb(255,255,255);
+    stroke-width:3;
+    stroke:rgb(200,200,200);
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.08);
+}
+h2{
+    position: absolute;
+    left: 1350px;
+    font-size: 16px;
+    font-weight: 600;
+    top: 20px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    margin: 0;
+    padding: 16px;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+li a {
+    display: block;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: gray;
+    text-decoration: black;
+}
+
+img{
+    width: 70%;
+}
+.car1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.75;
+}
+.container1 {
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+
+  .head1{
+      position:absolute;
+      top: 4%;
+      left: 20%;
+      font-size: 60px;
+      font-family: 'Bebas Neue', cursive;
+  }
+.options{
+    position: absolute;
+    top: -48px;
+    left: 0%;
+    font-size: 20px;
+}
+.form1{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    font-size: 20px;
+}
+.button1{
+    position: absolute;
+    top: 78%;
+    left: 20%;
+    font-size: 15px;
+}
+.rect1{
+    position: absolute;
+    top: 1%;
+    left: 17%;
+    fill:black; 
+    opacity: 0.75;
+    stroke-width: 0;
+}
+.rect2{
+    stroke-width: 0;
+    position: absolute;
+    top: 712px;
+    left: 15%;
+    fill: #91C9FF;
+    opacity: 0.75;
+}
+
+.brands{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 545px;
+}
+.container2 {
+    position: relative;
+    text-align: center;
+  }
+.text{
+    position: absolute;
+    top: 10%;
+    left: 32%;
+    font-size: 45px;
+}
+.container3 {
+    position: relative;
+    text-align: left;
+  }
+.money {
+    display: block;
+    margin-top: 0px;
+    margin-left: 228px;
+    opacity: 0.75;
+}
+
+.head2{
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    font-size: 70px;
+    background-color: black;
+    color: white;
+    padding: 12px;
+    font-family: 'Anton', sans-serif;
+}
+.form2{
+    position: absolute;
+    bottom: 14%;
+    right: 22%;  
+    font-size: 18px;
+}
+select{
+    padding: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=text]{
+    width: 100%;
+    padding: 5px;
+    border-radius: 4px;
+}
+input[type=submit]{
+    width: 104%;
+    background-color: #637FFF;
+    top: 337px;
+    left: 0px;
+    border-radius: 6px;
+    padding: 7px;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+    background-color: rgb(179, 179, 179);
+}
+.loan{
+    position: absolute;
+    top: -40px;
+    left: 0%;
+    font-size: 15px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+.rect3{
+    position: absolute;
+    fill:white; 
+    top: 5px; 
+    left: 800px;
+    stroke-width: 0;
+}
+.button2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.buycar{
+    display: block;
+    margin-top: 548px;
+    margin-left: 228px; 
+}
+
+.form3{
+    position: absolute;
+    bottom: -3723px;
+    left: 400px;
+    font-size: 15px;
+}
+
+.column1{
+    margin-right: 400px;
+    margin-bottom: -390px;
+}
+.column2{
+    margin-left: 400px;
+    margin-bottom: 270px;
+}
+
+.button3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.rect4{
+    position: absolute;
+    left: 225px;
+    top: 3099px;   
+    opacity: 0.75; 
+}
+
+.head3{
+    position: absolute;
+    top: 3117px;
+    left: 280px;
+    font-size: 35px;
+    font-family: 'Bungee', cursive;
+}
+
+.form4{
+    position: absolute;
+    bottom: -2993px;
+    left: 300px;
+    font-size: 18px;
+}
+
+.clipart{
+    position:absolute;
+    width: 20%;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.rect5{
+    position: absolute;
+    left: 228px;
+    top: 2498px;   
+    opacity: 0.75; 
+    stroke-width: 0;
+}
+
+.head4{
+    position: absolute;
+    font-size: 60px;
+    left: 700px;
+    bottom: -2623px;
+    font-family: 'Amatic SC', cursive;
+}
+.advantages{
+    position:absolute;
+    left: 550px;
+    top: 740px; 
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    color: whitesmoke;
+}
+.quote1{
+    position: absolute;
+    left: 350px;
+    top: 853px;
+    color: white;
+}
+.quote7{
+    position: absolute;
+    left: 680px;
+    top: 1123px;
+    color: rgba(124, 124, 255, 0.801);
+}
+.quote6{
+    position: absolute;
+    left: 450px;
+    top: 943px;
+    color: blueviolet;
+}
+.quote4{
+    position: absolute;
+    left: 750px;
+    top: 853px;
+    color: cornflowerblue;
+}
+.quote5{
+    position: absolute;
+    left: 800px;
+    top: 1023px;
+    color: cyan;
+}
+.quote3{
+    position: absolute;
+    left: 300px;
+    top: 1053px;
+    color: darkblue;
+}
+.quote2{
+    position: absolute;
+    left: 500px;
+    top: 1213px;
+    color: darkturquoise;
+}
+
+.slider{
+    position: relative;
+    background: rgb(108, 108, 247);
+    opacity: 0.75;
+}
+.headline{
+    display: none;
+    padding: 1px;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+}
+.backtop{
+    background: #637FFF;
+    margin-left: 92%;
+    cursor: pointer;
+    padding: 5px;
+}
+.quotes{
+    font-family: 'Staatliches', cursive;
+    font-size: 45px;
+}
